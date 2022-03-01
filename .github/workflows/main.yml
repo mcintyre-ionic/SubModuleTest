@@ -21,7 +21,7 @@ jobs:
         uses: ionic-team/appflow-build@v1
         with:
           token: ${{ secrets.SECRET }}
-          app-id: abcd0002 # Replace with app id for SubModuleTestAppA
+          app-id: 62c167ad
           platform: iOS
           build-type: development
           certificate: ios_dev
@@ -46,7 +46,7 @@ jobs:
         uses: ionic-team/appflow-build@v1
         with:
           token: ${{ secrets.SECRET }}
-          app-id: abcd0002 # Replace with app id for SubmoduleTestAppA
+          app-id: 62c167ad
           platform: Web
           artifact-retention-days: 1
 
