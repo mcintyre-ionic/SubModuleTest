@@ -1,0 +1,9 @@
+{
+    "apps":
+    [
+        {
+            "appId": "abcd0002",
+            "root": "SubModuleTestAppA"
+        },
+    ]
+}
