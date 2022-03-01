@@ -1,7 +1,0 @@
-{
-  "name": "SubModuleTestAppB",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
