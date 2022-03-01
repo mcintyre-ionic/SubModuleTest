@@ -1,3 +1,3 @@
 [submodule "SubModuleTestAppA"]
-	path = ./SubModuleTestAppA
-	url = git@github.com:mcintyre-ionic/SubModuleTestAppA.git
+	path = SubModuleTestAppA
+	url = ../SubModuleTestAppA.git
